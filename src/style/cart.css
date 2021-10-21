@@ -1,0 +1,47 @@
+.finalizarPedido {
+  display: flex;
+  flex-direction: column;
+  margin: 10px auto;
+  align-items: center;
+}
+
+button {
+  margin: 5px 0;
+  padding: 5px 15px;
+  font-weight: bold;
+  background-color: white;
+  color: rgb(114, 114, 247);
+  border: solid 1px rgb(110, 110, 110);
+  border-radius: 3px;
+}
+
+button:hover {
+  background-color: rgb(114, 114, 247);
+  color: white;
+  border: solid 1px rgb(114, 114, 247);
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+}
+
+.buttons button {
+  margin: 2px;
+}
+
+.containerBtn {
+  text-align: center;
+  width: 100%;
+}
+
+.emptyCart {
+  text-align: center;
+  margin: 30px;
+  color: rgb(94, 94, 94);
+}
+
+.containerImg {
+  text-align: center;
+  width: 100%;
+}
