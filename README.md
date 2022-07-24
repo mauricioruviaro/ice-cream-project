@@ -1,5 +1,5 @@
 # ice-cream-project
-Projecto criado para desenvolver minhas habilidades frontend e futuramente backend.
+Projeco criado para desenvolver minhas habilidades frontend e futuramente backend.
 Para poder executar o site, é necessário ter instalado:<br>
 -No mínimo, a versão LTS do node;<br>
 -No mínimo, a versão 7.24.0 do npm.
